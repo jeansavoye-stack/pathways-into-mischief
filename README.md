@@ -4,6 +4,8 @@
 
 A native macOS save editor for **Pathways Into Darkness**, inspired by Alain Roy’s classic **Pathways Into Cheating**.
 
+Developed by ChatGPT (OpenAI), using Codex, from an idea by Jean Savoye, who directed the project and tested the application in the game.
+
 **Experimental beta — 0.7.0-beta.1.** Developed against the Mac App Store port, version 2.2. Keep an independent copy of any save you care about. Some deliberately unusual combinations can trigger errors in the game.
 
 ## Download and install
@@ -85,4 +87,4 @@ In tribute to **Alain Roy’s Pathways Into Cheating**. This is an independently
 
 See [CREDITS.md](CREDITS.md) for historical format references. Code, documentation and the original icon are distributed under the [MIT licence](LICENSE). No original game code, maps, resources, or personal saves are bundled. Game names and other third-party material remain associated with their respective owners.
 
-Created with assistance from OpenAI Codex; the icon was generated using OpenAI image generation. Not affiliated with or endorsed by Bungie or the developers of the macOS port.
+The code, save-format analysis, English translation, documentation and automated tests were produced by ChatGPT via Codex. The icon was generated using OpenAI image generation. Not affiliated with or endorsed by Bungie or the developers of the macOS port.
